@@ -1,0 +1,12 @@
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\bin\Debug\net5.0\DataEntityLayer.deps.json
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\bin\Debug\net5.0\DataEntityLayer.dll
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\bin\Debug\net5.0\ref\DataEntityLayer.dll
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\bin\Debug\net5.0\DataEntityLayer.pdb
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.GeneratedMSBuildEditorConfig.editorconfig
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.AssemblyInfoInputs.cache
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.AssemblyInfo.cs
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.csproj.CoreCompileInputs.cache
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.dll
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\ref\DataEntityLayer.dll
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.pdb
+E:\DOTNET\MicroServicesWithAsp\DataEntityLayer\obj\Debug\net5.0\DataEntityLayer.csproj.AssemblyReference.cache
